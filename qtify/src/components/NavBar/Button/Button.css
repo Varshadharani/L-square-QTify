@@ -1,5 +1,6 @@
 .navButton{
     width: 170px;
+    
     height: 47px;
     background-color: var(--black-color);
     color: var(--primary-color);
@@ -8,7 +9,6 @@
     font-weight: 600;
     font-size: 18px;
     letter-spacing: 0.25px;
-}
-.navButton:hover{
+    font-family:'Poppins', sans-serif; 
     cursor: pointer;
 }
