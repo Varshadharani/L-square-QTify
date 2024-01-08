@@ -1,4 +1,4 @@
-
+import React from "react";
 import "./SearchBar.css";
 import searchIcon from "../../../Assets/Search icon.png";
 
