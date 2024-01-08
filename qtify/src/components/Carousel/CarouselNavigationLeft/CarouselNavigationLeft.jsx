@@ -4,7 +4,7 @@ import { useSwiper } from "swiper/react";
 
 
 import styles from "./CarouselNavigationLeft.css";
-import {ReactComponent as LeftArrow} from "../../../Assests/Leftarrow.png";
+import {ReactComponent as LeftArrow} from "../../../Assets/Leftarrow.png";
 
 
 function CarouselNavigationLeft() {
