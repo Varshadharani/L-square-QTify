@@ -1,3 +1,4 @@
+import React from "react";
 import LogoImage from "../../../Assets/Logo.png";
 
 /**
